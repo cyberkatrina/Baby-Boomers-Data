@@ -1,5 +1,5 @@
 # Baby-Boomers-Data
-Baby Boomers Data Visualization in Altair
+Baby Boomers Data Visualization in Altair.
 
 A Jupyter Notebook of Interactive Charts to Visualize Population Shifts over Time with Altair.
 
